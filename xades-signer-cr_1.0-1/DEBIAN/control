@@ -1,0 +1,9 @@
+Package: xades-signer-cr
+Version: 1.0-1
+Section: base
+Priority: optional
+Architecture: all
+Depends: default-jre | java6-runtime
+Maintainer: johann04
+Description: xades-signer-cr
+ Firma para comprobantes electronicos Costa Rica
