@@ -1,2 +1,2 @@
 #!/bin/sh
-java -jar /usr/share/xades-signer-cr/xades-signer-cr.jar
+java -jar /usr/share/xades-signer-cr/xades-signer-cr.jar sign $1 $2 $3 $4 $5
